@@ -7,6 +7,8 @@ sites:
     url: https:/windreserve.de
   - name: Cloud
     url: https://cloud.windreserve.de
+  - name: Wiki
+    url: https://wiki.windreserve.de
   - name: Craftnote
     url: https://app.mycraftnote.de
   - name: Strato Webmail
