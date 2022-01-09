@@ -13,6 +13,8 @@ sites:
     url: https://app.mycraftnote.de
   - name: Strato Webmail
     url: https://webmail.strato.de/appsuite/signin#!!&app=io.ox/mail&folder=default0/INBOX
+  - name: Inventory
+    url: https://inventory.windreserve.de
   - name: Grafana
     url: https://grafana.windreserve.de
   - name: Matomo
