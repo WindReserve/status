@@ -11,6 +11,8 @@ sites:
     url: https://app.mycraftnote.de
   - name: Strato Webmail
     url: https://webmail.strato.de/appsuite/signin#!!&app=io.ox/mail&folder=default0/INBOX
+  - name: Grafana
+    url: https://grafana.windreserve.de
  # - name: Test Broken Site
  #   url: https://thissitedoesnotexist.koj.co
 
