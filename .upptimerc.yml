@@ -11,18 +11,22 @@ sites:
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png?x53054
   - name: Wiki
     url: https://wiki.windreserve.de
+    icon: https://js.wiki/favicon.ico
   - name: Craftnote
     url: https://app.mycraftnote.de
     icon: https://www.craftnote.de/assets/images/favicon.ico
   - name: Strato Webmail
     url: https://webmail.strato.de/appsuite/signin#!!&app=io.ox/mail&folder=default0/INBOX
+    icon: https://webmail.strato.com/appsuite/v=7.10.5-27.20211215.100957/apps/themes/default/favicon.ico
   - name: Inventory
     url: https://inventory.windreserve.de
+    icon: https://snipeitapp.com/img/icons/favicon.ico
   - name: Grafana
     url: https://grafana.windreserve.de
     icon: https://grafana.com/static/assets/img/fav32.png
   - name: Matomo
     url: https://matomo.windreserve.de
+    icon: https://css-tricks.com/wp-content/uploads/2019/09/DefaultIcon.png
  # - name: Test Broken Site
  #   url: https://thissitedoesnotexist.koj.co
 
