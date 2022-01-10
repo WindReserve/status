@@ -4,6 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: WindReserve Website
+    icon: https://windreserve.de/wp-content/uploads/2019/06/windreserve-favicon-90x90.png?x79943
     url: https:/windreserve.de
   - name: Cloud
     url: https://cloud.windreserve.de
