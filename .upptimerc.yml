@@ -8,6 +8,7 @@ sites:
     url: https:/windreserve.de
   - name: Cloud
     url: https://cloud.windreserve.de
+    icon: https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png?x53054
   - name: Wiki
     url: https://wiki.windreserve.de
   - name: Craftnote
