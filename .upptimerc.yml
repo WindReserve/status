@@ -20,6 +20,7 @@ sites:
     url: https://inventory.windreserve.de
   - name: Grafana
     url: https://grafana.windreserve.de
+    icon: https://grafana.com/static/assets/img/fav32.png
   - name: Matomo
     url: https://matomo.windreserve.de
  # - name: Test Broken Site
