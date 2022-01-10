@@ -13,6 +13,7 @@ sites:
     url: https://wiki.windreserve.de
   - name: Craftnote
     url: https://app.mycraftnote.de
+    icon: https://www.craftnote.de/assets/images/favicon.ico
   - name: Strato Webmail
     url: https://webmail.strato.de/appsuite/signin#!!&app=io.ox/mail&folder=default0/INBOX
   - name: Inventory
