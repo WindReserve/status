@@ -18,15 +18,24 @@ sites:
   - name: Strato Webmail
     url: https://webmail.strato.de/appsuite/signin#!!&app=io.ox/mail&folder=default0/INBOX
     icon: https://webmail.strato.com/appsuite/v=7.10.5-27.20211215.100957/apps/themes/default/favicon.ico
+  - name: Element
+    url: https://element.windreserve.de
+    icon: https://element.windreserve.de/vector-icons/favicon.ico
   - name: Inventory
     url: https://inventory.windreserve.de
     icon: https://snipeitapp.com/img/icons/favicon.ico
   - name: Grafana
     url: https://grafana.windreserve.de
     icon: https://grafana.com/static/assets/img/fav32.png
+  - name: Alertmanager
+    url: https://alertmanager.windreserve.de
+    icon: https://prometheus.io/assets/favicons/favicon.ico
   - name: Matomo
     url: https://matomo.windreserve.de
     icon: https://css-tricks.com/wp-content/uploads/2019/09/DefaultIcon.png
+  - name: Synapse Admin
+    url: https://matrix.windreserve.de/synapse-admin
+    icon: https://element.windreserve.de/vector-icons/favicon.ico
  # - name: Test Broken Site
  #   url: https://thissitedoesnotexist.koj.co
 
