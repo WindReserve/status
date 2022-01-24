@@ -64,29 +64,29 @@ i18n:
   incidentTitle: Störung $NUMBER Details
   incidentDetails: Störungsdetails
   incidentFixed: Behoben
-  incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
-  incidentSubscribe: Subscribe to Updates
+  incidentOngoing: Aktiv
+  incidentOpenedAt: Begann um
+  incidentClosedAt: Beendet um
+  incidentSubscribe: Updates abbonieren
   incidentViewOnGitHub: Auf GitHub Ansehen
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentCommentSummary: Geposted am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Störungen
   pastIncidents: Vergangene Störungen
   pastIncidentsResolved: Behoben in $MINUTES minuten mit $POSTS posts
   liveStatus: Live Status
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
-  averageResponseTime: "Average response time: $TIMEms"
-  averageResponseTimeTitle: Average response
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
-  degraded: Degraded
+  overallUptime: "Gesamt-Verfügbarkeit: $UPTIME"
+  overallUptimeTitle: Gesamt-Verfügbarkeit
+  averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Reaktion
+  sevelDayResponseTime: 7-Tage Reaktionszeit
+  responseTimeMs: Reaktionszeit (ms)
+  up: Verfügbar
+  down: Nicht verfügbar
+  degraded: Gestört
   ms: ms
   loading: Lädt
   navGitHub: GitHub
-  footer: Diese Seite ist[open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: Diese Seite ist [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Rate limit überschritten
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
