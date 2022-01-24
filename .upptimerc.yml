@@ -57,22 +57,22 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  activeIncidents: Active Incidents
+  activeIncidents: Aktive Störungen
   allSystemsOperational: All systems are operational
-  incidentReport: "Incident #$NUMBER report →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
-  incidentFixed: Fixed
+  incidentReport: "Störung #$NUMBER Report →"
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS posts
+  incidentTitle: Störung $NUMBER Details
+  incidentDetails: Störungsdetails
+  incidentFixed: Behoben
   incidentOngoing: Ongoing
   incidentOpenedAt: Opened at
   incidentClosedAt: Closed at
   incidentSubscribe: Subscribe to Updates
-  incidentViewOnGitHub: View on GitHub
+  incidentViewOnGitHub: Auf GitHub Ansehen
   incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  incidentBack: ← Zurück zu allen Störungen
+  pastIncidents: Vergangene Störungen
+  pastIncidentsResolved: Behoben in $MINUTES minuten mit $POSTS posts
   liveStatus: Live Status
   overallUptime: "Overall uptime: $UPTIME"
   overallUptimeTitle: Overall uptime
@@ -84,10 +84,10 @@ i18n:
   down: Down
   degraded: Degraded
   ms: ms
-  loading: Loading
+  loading: Lädt
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceeded
+  footer: Diese Seite ist[open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit überschritten
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
   rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
@@ -95,10 +95,10 @@ i18n:
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
   rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
   rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededRemoveToken: Token löschen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
+  rateLimitExceededSaveToken: Token speichern
   errorTitle: Ein Fehler is aufgetreten
   errorIntro: An error occurred in trying to get the latest status details.
   errorText: Versuche es in ein paar Minuten nochmal.
