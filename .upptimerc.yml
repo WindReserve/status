@@ -62,7 +62,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   activeIncidents: Aktive Störungen
-  allSystemsOperational: All systems are operational
+  allSystemsOperational: Alle Systeme verfügbar
   incidentReport: "Störung #$NUMBER Report →"
   activeIncidentSummary: Geöffnet am $DATE mit $POSTS posts
   incidentTitle: Störung $NUMBER Details
