@@ -1,7 +1,9 @@
 # Change these first
 owner: WindReserve # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-
+assignees:
+  - juliusdw
+  - FabianVolkers
 sites:
   - name: WindReserve Website
     icon: https://windreserve.de/wp-content/uploads/2019/06/windreserve-favicon-90x90.png?x79943
